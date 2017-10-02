@@ -1,0 +1,30 @@
+body {
+    background-color: #00567D;
+}
+
+.header {
+    background-color: #ffffff;
+}
+.margin-fixed {
+    margin: 7% 25%;
+}
+
+.container-fluid{
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 5%;
+}
+
+.page-header{
+    margin-top: 10px;
+}
+
+.logo {
+    font-size: 7em;
+}
+
+.description p{
+    font-size: 25px;
+    line-height: 2;
+}
+
